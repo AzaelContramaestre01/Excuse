@@ -3,7 +3,7 @@ window.onload = function(){
     var adj = ['Un mago ', 'Un desarrollador ', 'Alguien enojado ', 'El vicioso ','El millonario ',];
     var pronombre = ['trotador ', 'estudioso ','perruno ', 'mercenario ', 'filantropo ', 'comediante ',];
     var accion = ['expropio mi ', 'le gusto mi ', 'quemo mi ' , 'atrapo mi ', 'encanto mi ', 'le pego a mi ',];
-    var posesion = ['novia ', 'perro', 'flecha ', 'pc  ', 'licencia ', 'dedo indice ',];
+    var posesion = ['novia ', 'perro ', 'flecha ', 'pc  ', 'licencia ', 'dedo indice ',];
     var lugar = ['en mi casa','en tu casa','en nuestra casa', 'en la casa de ellos', 'en casa de hercules', 'en casa de eritrea',];
     
 
