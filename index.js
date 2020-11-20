@@ -14,6 +14,6 @@ window.onload = function(){
      var n5 = Math.floor((Math.random() * lugar.length) );
     
       
-      document.querySelector('#go').innerHTML = adj[n1] + pronombre[n2] + accion[n3] + posesion[n4] + lugar[n5]; 
+      document.querySelector('#excuse').innerHTML = excuse; 
     
   }
